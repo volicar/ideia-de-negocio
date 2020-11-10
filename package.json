@@ -1,0 +1,25 @@
+{
+  "name": "ideia-de-negocio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volicar/ideia-de-negocio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/volicar/ideia-de-negocio/issues"
+  },
+  "homepage": "https://github.com/volicar/ideia-de-negocio#readme",
+  "dependencies": {
+    "next": "^10.0.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
